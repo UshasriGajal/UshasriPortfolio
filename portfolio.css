@@ -376,13 +376,18 @@ nav{
 }
 @media (max-width:322px){
     .name_Div{
-    border: 1px solid black;
+    /* border: 1px solid black; */
 
         width: 200px;
     }
     .education-div{
         padding: 3%;
         /* border: 1px solid black; */
+    }
+}
+@media (max-width:372px){
+    .name_Div{
+        width: 200px;
     }
 }
 @media (max-width:440px){
